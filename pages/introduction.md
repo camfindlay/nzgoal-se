@@ -11,7 +11,7 @@ description: "NZGOAL-SE Introduction"
 
 ##### 1
 
-Government agencies invest significantly in software development and often own the copyright in the software that they develop or that is developed for them. Public sharing and open source licensing of this government-owned software has the potential to:
+Government agencies invest significantly in software development and often own the copyright in the software that they develop or that is developed for them. Public sharing and the licensing of this government-owned software under free and open source software (FOSS) licence terms has the potential to:
 
 (a) save agencies time and money, resulting in a more efficient use of scarce resources;
 
@@ -31,23 +31,23 @@ Government agencies invest significantly in software development and often own t
 
 This NZGOAL Software Extension (**NZGOAL-SE**) provides agencies with a means of realising this potential. It:
 
-(a) explains the legal and policy context that is relevant to agencies’ open source licensing of software;
+(a) explains the legal and policy context that is relevant to agencies’ FOSS licensing of software;
 
 (b) sets out a series of policy principles to guide agencies in their open sharing of software code;
 
-(c) advocates the use of particular open source software licences for this purpose; and
+(c) advocates the use of particular FOSS licences for this purpose; and
 
 (d) sets out a review and release process to guide agencies through the review of the software they propose to release for re-use, the purpose of which is to help agencies make decisions that are legally robust and practically useful. 
 
-### Open source software and open source software licences
+### Free and open source software and licences
 
 ##### 3
 
-For the purposes of NZGOAL-SE, open source software (**OSS**) is software that is released on terms that make it freely available for others to use, modify and distribute, for either non-commercial or commercial purposes, as long as they comply with the applicable licensing conditions. The licensing conditions that users of the software need to comply with depend on the form of open source software licence applied to the software.
+For the purposes of NZGOAL-SE, free and open source software (**FOSS**) is software that is released on terms that grant others the freedom to use, copy, modify and distribute, for either non-commercial or commercial purposes, as long as they comply with the applicable licensing conditions. The licensing conditions that users of the software need to comply with depend on the form of FOSS licence applied to the software.
 
 ##### 4
 
-There are two main forms of open source software licence:
+There are two main forms of FOSS licence:
 
 (a) **fully permissive licences** (also known as academic licences) that confer broad freedoms and minimal obligations on those who wish to use, adapt and distribute the software (e.g., the MIT licence, the BSD licence and the Apache 2.0 licence); and
 
@@ -61,7 +61,7 @@ NZGOAL-SE is an extension of, and is modelled in part on the approach to, the op
 
 ##### 6
 
-NZGOAL-SE is not concerned with the proprietary versus open source debate or with the considerations that agencies may wish to take into account when using existing open source software for their own internal purposes.[^1] Its sole focus is on the public release and open source licensing by agencies of software they own or are authorised to release and license.
+NZGOAL-SE is not concerned with the proprietary versus FOSS debate or with the considerations that agencies may wish to take into account when using existing FOSS for their own internal purposes.[^1] Its sole focus is on the public release and FOSS licensing by agencies of software they own or are authorised to release and license.
 
 [^1]: On these topics, see the Australian Government’s _A Guide to Open Source Software for Australian Government Agencies_ (version 2.0, June 2011) at [http://www.finance.gov.au/files/2012/04/AGuidetoOpenSourceSoftware.pdf](http://www.finance.gov.au/files/2012/04/AGuidetoOpenSourceSoftware.pdf)
 

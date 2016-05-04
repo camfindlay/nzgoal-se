@@ -12,7 +12,7 @@ description: "NZGOAL-SE Review and release process"
 
 ##### 36
 
-It is recommended that government agencies follow the review and release process set out below before releasing software for re-use under an open source software licence, with assistance where required from their technical and legal teams. The process consists of five main stages:
+It is recommended that government agencies follow the review and release process set out below before releasing software for re-use under a free and open source software (FOSS) licence, with assistance where required from their technical and legal teams. The process consists of five main stages:
 
 (a) copyright-related rights evaluation;
 
@@ -34,7 +34,7 @@ It can be important to work through these steps to ensure that the agency:
 
 (a) has all relevant rights in or to the software it proposes to release;
 
-(b) uses the appropriate open source software licence; and
+(b) uses the appropriate FOSS licence; and
 
 (c) does not expose either itself or those who may re-use the released software to liability or related risk.
 
@@ -78,17 +78,17 @@ The analysis for these two scenarios is different:
 
 (a) **All new code**: In the case of all new code that the agency doesn’t own but wishes to license, the agency would need to either:
 
->(i) already be entitled, under an open source software licence that the owner has recently applied to the software, to sub-license the software; or 
+>(i) already be entitled, under a FOSS licence that the owner has recently applied to the software, to sub-license the software; or 
 
->(ii) obtain irrevocable written permission from the copyright owner to sub-license the software on the relevant open source software licence terms. 
+>(ii) obtain irrevocable written permission from the copyright owner to sub-license the software on the relevant FOSS licence terms. 
 
->**Notes on sub-licensing**: As to the first option, it is important to note three points. First, if the software has already been licensed under an open source software licence, there may be no need for the agency to sub-license it because anyone who gets the software has the rights granted by the licence that the owner has applied. Second, some open source software licences prohibit sub-licensing. For example, you cannot sub-license GPL-licensed software. Third, if there is a right to sub-license, that right would need to be broad enough to allow sub-licensing under the particular open source software licence that the agency wishes to apply to the software. 
+>**Notes on sub-licensing**: As to the first option, it is important to note three points. First, if the software has already been licensed under an FOSS licence, there may be no need for the agency to sub-license it because anyone who gets the software has the rights granted by the licence that the owner has applied. Second, some FOSS licences prohibit sub-licensing. For example, you cannot sub-license GPL-licensed software. Third, if there is a right to sub-license, that right would need to be broad enough to allow sub-licensing under the particular FOSS licence that the agency wishes to apply to the software. 
 
 (b) **Adaptation / derivative of pre-existing code**: In the case of an adaptation / derivative of pre-existing code, the agency would need to:
 
 >(i) be able to identify who owns the pre-existing code (noting that there could be more than 1 owner/contributor) and who has made and owns the new copyright in the adaptation / derivative work; and
 
->(ii) to the extent that the agency does not own the copyright in the adaptation / derivative work, have permission from the other copyright owner(s) for their parts of the overall new work to be licensed under the open source software licence the agency wishes to use.
+>(ii) to the extent that the agency does not own the copyright in the adaptation / derivative work, have permission from the other copyright owner(s) for their parts of the overall new work to be licensed under the FOSS licence the agency wishes to use.
 
 To understand this, one needs to appreciate that an adaptation / derivative work consists of property (copyright) owned by the original licensor(s) (let’s call them A) plus new and separate property (copyright) over the new original parts of the adaptation / derivative work that are created by B. The derivative work is a distinct copyright work in its own right but B doesn’t obtain property rights that are greater than B’s own contribution. As a United States court has put it, "[t]he aspects of a derivative work added by the derivative author are that author’s property, but the element drawn from the pre-existing work remains on grant from the owner of the pre-existing work".[^13]
 
@@ -106,7 +106,7 @@ There are certain scenarios in which, from a copyright perspective, an agency wi
 
 (b) **adaptations of proprietary software**: the software is an adaptation or derivative of proprietary software and the agency does not have the proprietary software owner’s written and irrevocable authorisation to license the adaptation or derivative under the MIT licence (whilst the agency might own the copyright in its new contributions, it still needs authorisation from the owner of the base software that it adapted); and
 
-(c) **adaptations of GPL or similarly open source licensed software**: the software is an adaptation or derivative of open source software that is licensed under a sharealike OSS licence, such as the GPL, that requires distributed or conveyed adaptations or derivative works to be licensed under the same licence.
+(c) **adaptations of GPL or similarly FOSS licensed software**: the software is an adaptation or derivative of FOSS that is licensed under a sharealike OSS licence, such as the GPL, that requires distributed or conveyed adaptations or derivative works to be licensed under the same licence.
 
 ### Stage 2: Evaluation of exceptions
 
@@ -126,9 +126,9 @@ In many instances, the exercise will be quick as none of the restrictions will a
 
 If one or more of the exceptions applies, the Permissive Licensing Principle will be displaced and not apply. One of two consequences will follow:
 
-(a) **No open sourcing licensing**: If the exception(s) that apply are any of those in paragraphs 20(a)-20(c) (civil wrongs, commercial interests and/or security or privacy risk), open source licensing of the software will in all likelihood not be possible, unless the software can be amended or altered to remove the reason(s) for the exception(s) applying. If open source licensing is not possible, the analysis ends and there is no need to consider the subsequent stages below. If the software can be amended or altered to remove the reason(s) for the exception(s) applying, the Permissive Licensing Principle is resurrected and one progresses to Stage 4.
+(a) **No FOSS licensing**: If the exception(s) that apply are any of those in paragraphs 20(a)-20(c) (civil wrongs, commercial interests and/or security or privacy risk), FOSS licensing of the software will in all likelihood not be possible, unless the software can be amended or altered to remove the reason(s) for the exception(s) applying. If FOSS licensing is not possible, the analysis ends and there is no need to consider the subsequent stages below. If the software can be amended or altered to remove the reason(s) for the exception(s) applying, the Permissive Licensing Principle is resurrected and one progresses to Stage 4.
 
-(b) **Alternative open sourcing licensing**: if the exception in paragraph 20(d) applies (sharealike required), the software can instead be licensed under an open source software licence with a sharealike requirement. This then raises the question of which of the sharealike OSS licences should be used and that, in turn, takes one to Stage 3 (Alternative OSS licensing).
+(b) **Alternative FOSS licensing**: if the exception in paragraph 20(d) applies (sharealike required), the software can instead be licensed under an FOSS software licence with a sharealike requirement. This then raises the question of which of the sharealike OSS licences should be used and that, in turn, takes one to Stage 3 (Alternative OSS licensing).
 
 ### Stage 3: Alternative OSS licensing
 
@@ -138,7 +138,7 @@ Stage 3 only applies where the exception in paragraph 18(d) applies (sharealike 
 
 ##### 50
 
-As noted in paragraph 18(d), a sharealike open source software licence may need to be applied either because:
+As noted in paragraph 18(d), a sharealike FOSS licence may need to be applied either because:
 
 (a) the agency is required to license the software under a particular sharealike licence (the agency may, for example, be adapting pre-existing software that has been licensed under a sharealike licence like the GPL); or  
 
@@ -150,7 +150,7 @@ If the agency is required to license the software under a particular sharealike 
 
 ##### 52
 
-If a sharealike open source software licence is to be applied because the agency has a genuine need for developments to the software to be shared with the developer community, the agency is encouraged to use either:
+If a sharealike FOSS licence is to be applied because the agency has a genuine need for developments to the software to be shared with the developer community, the agency is encouraged to use either:
 
 (a) the GPL (version 2 or 3, with version 3 being preferable); or
 
@@ -168,7 +168,7 @@ GPL-compatibility is important given the large volume of software that has been 
 
 ##### 54
 
-Stage 4 explains how agencies apply their chosen open source software licence to the software they’re releasing.
+Stage 4 explains how agencies apply their chosen FOSS licence to the software they’re releasing.
 
 #### Applying the MIT licence
 
@@ -240,7 +240,7 @@ Full instructions on how to apply can be found on the Free Software Foundation�
 
 ##### 58
 
-If for some reason you are applying an alternative open source software licence, you may wish to check whether the entity that maintains the licence has instructions on how to apply it. Alternatively, you could follow the approach suggested above for the MIT licence or the Free Software Foundation’s suggested approach for the GPL. 
+If for some reason you are applying an alternative FOSS licence, you may wish to check whether the entity that maintains the licence has instructions on how to apply it. Alternatively, you could follow the approach suggested above for the MIT licence or the Free Software Foundation’s suggested approach for the GPL. 
 
 ### Stage 5: Release the software
 

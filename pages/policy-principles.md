@@ -12,7 +12,7 @@ description: "NZGOAL-SE Policy principles"
 
 ##### 13
 
-Government agencies are strongly encouraged to apply the following Policy Principles in relation to publicly releasing and licensing their software on open source terms. The Principles should be read in their entirety but here’s a summary :
+Government agencies are strongly encouraged to apply the following Policy Principles in relation to publicly releasing and licensing their software on free and open source (FOSS) licence terms. The Principles should be read in their entirety but here’s a summary :
 
 | **Policy Principle**                                                             | **Summary**                                                                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ Paragraph 14 makes it clear that, for the Permissive Licensing Principle to appl
 
 ##### 17
 
-Agencies should only license software for re-use by others (whether under the MIT licence or any other open source software licence) where:
+Agencies should only license software for re-use by others under FOSS licence where:
 
 (a) they own or can obtain an assignment of all copyright in the software and have not exclusively licensed it to a third party; or
 
@@ -70,11 +70,11 @@ Agencies should only license software for re-use by others (whether under the MI
 
 The Permissive Licensing Principle does not apply where:
 
-(a) **civil wrongs**: open source licensing of the software would constitute a breach of contract, breach of confidence, breach of privacy, disclosure of a trade secret or other actionable wrong; 
+(a) **civil wrongs**: FOSS licensing of the software would constitute a breach of contract, breach of confidence, breach of privacy, disclosure of a trade secret or other actionable wrong; 
 
-(b) **commercial interests**: open source licensing of the software would be contrary to an agency’s own or the Government’s legitimate commercial interests (note, however, that most government agencies are not in the business of commercialising developed software); 
+(b) **commercial interests**: FOSS licensing of the software would be contrary to an agency’s own or the Government’s legitimate commercial interests (note, however, that most government agencies are not in the business of commercialising developed software); 
 
-(c) **security** **or privacy** **risk**: release of the software on open source terms would create an unacceptable security risk (whether to an agency, organisation or individuals) or an unacceptable privacy-related risk; or
+(c) **security** **or privacy** **risk**: release of the software on FOSS licence terms would create an unacceptable security risk (whether to an agency, organisation or individuals) or an unacceptable privacy-related risk; or
 
 (d) **sharealike required**: the agency is either required or has compelling reason to license the software with a sharealike (copyleft) licence such as the GPL.[^8] For example:
 
@@ -126,21 +126,21 @@ Before releasing software for re-use, agencies should:
 
 ##### 23
 
-When releasing developed software under an open source software licence, agencies must not seek to impose controls or requirements, whether contractual or otherwise, that are inconsistent with the freedoms or permissions granted by the selected OSS licence. For example, agencies are _not_ able to license software under an open source software licence and then seek to discriminate between individual, not-for-profit and commercial uses of the software.
+When releasing developed software under a FOSS licence, agencies must not seek to impose controls or requirements, whether contractual or otherwise, that are inconsistent with the freedoms or permissions granted by the selected FOSS licence. For example, agencies are _not_ able to license software under a FOSS licence and then seek to discriminate between individual, not-for-profit and commercial uses of the software.
 
 ### No charging
 
 ##### 24
 
-Government agencies that release software under open source software licences should not seek to charge people for access to the software.
+Government agencies that release software under FOSS licences should not seek to charge people for access to the software.
 
-### Updating open source licensed software
+### Updating FOSS licensed software
 
 ##### 25
 
 If an agency:
 
-(a) publicly releases software on open source terms; and 
+(a) publicly releases software on FOSS licence terms; and 
 
 (b) subsequently identifies a bug or other issue with the software that could have a material adverse effect on users of the software, 
 
@@ -178,19 +178,19 @@ Where an agency has taken and modified open source software, it should contribut
 
 ##### 29
 
-When procuring or commissioning the development of software, government agencies should consider whether the software should, in accordance with these Policy Principles, be released to the public for re-use under an open source software licence. If the software should be released to the public for re-use under an open source software licence, government agencies should consider the steps that may be required as part of their procurement and contracting processes to ensure that either:
+When procuring or commissioning the development of software, government agencies should consider whether the software should, in accordance with these Policy Principles, be released to the public for re-use under a FOSS licence. If the software should be released to the public for re-use under a FOSS licence, government agencies should consider the steps that may be required as part of their procurement and contracting processes to ensure that either:
 
-(a) they have the relevant rights to release the software under an open source software licence; or 
+(a) they have the relevant rights to release the software under a FOSS licence; or 
 
-(b) that the developer will release the software under a specified open source software licence. 
+(b) that the developer will release the software under a specified FOSS licence. 
 
 Such steps may include:
 
 (c) ensuring the agency owns the intellectual property rights in the developed software; or 
 
-(d) ensuring the agency obtains a broad licence from the service provider allowing the agency to sub-license the software under the MIT licence or, where applicable, the GPL (or, if required, some other open source software licence); or
+(d) ensuring the agency obtains a broad licence from the service provider allowing the agency to sub-license the software under the MIT licence or, where applicable, the GPL (or, if required, some other FOSS licence); or
 
-(e) insisting on contractual provisions that require the service provider to release the software under a specified open source software licence (and, where relevant, to a specified code respository).
+(e) insisting on contractual provisions that require the service provider to release the software under a specified FOSS licence (and, where relevant, to a specified code respository).
 
 Taking these steps may require:
 
@@ -200,7 +200,7 @@ Taking these steps may require:
 
 (h) where an existing panel supply arrangement is being used, a review of the intellectual property provisions in the panel contract and, if required and possible, amendments to them for the purposes of the software development in question; and
 
-(i) ensuring that the contract does not include confidentiality provisions that would inadvertently prevent release of the software under an open source software licence.
+(i) ensuring that the contract does not include confidentiality provisions that would inadvertently prevent release of the software under a FOSS licence.
 
 ##### 30
 
@@ -216,24 +216,24 @@ The Guidelines for the Treatment of Intellectual Property Rights in ICT Contract
 
 If:
 
-(a) a government agency is commissioning a service provider to develop software that is to be released on open source terms (either by the agency or by the service provider under a contractual obligation for the service provider to do so); and 
+(a) a government agency is commissioning a service provider to develop software that is to be released on FOSS licence terms (either by the agency or by the service provider under a contractual obligation for the service provider to do so); and 
 
-(b) it is known that the developer will be leveraging or adapting existing open source software developed by others, 
+(b) it is known that the developer will be leveraging or adapting existing FOSS source code developed by others, 
 
 the agency should act fairly towards the service provider in relation to the drafting of intellectual property warranties and indemnities. 
 
 ##### 33
 
-In particular, it is generally considered unreasonable to expect a service provider to give an unqualified IP warranty and an unqualified IP indemnity in relation to third party open source software that the agency agrees can be used by the service provider in developing software for the agency. This is especially so when the agency will be releasing the developed software under an open source software licence or requires the service provider to do so on its behalf.
+In particular, it is generally considered unreasonable to expect a service provider to give an unqualified IP warranty and an unqualified IP indemnity in relation to third party FOSS source code that the agency agrees can be used by the service provider in developing software for the agency. This is especially so when the agency will be releasing the developed software under a FOSS licence or requires the service provider to do so on its behalf.
 
 ### Liability
 
 ##### 34
 
-The MIT licence and the GPL both contain broad disclaimers of warranties and exclusions of liability that are widely known and acknowledged and ought to protect releasing agencies from liability in connection with the software they have released. In essence, people use open source software at their own risk. Agencies should ensure that all disclaimers and exclusions contained in the MIT licence or the GPL (as applicable) are replicated when they release software under these licences.
+The MIT licence and the GPL both contain broad disclaimers of warranties and exclusions of liability that are widely known and acknowledged and ought to protect releasing agencies from liability in connection with the software they have released. In essence, people use FOSS at their own risk. Agencies should ensure that all disclaimers and exclusions contained in the MIT licence or the GPL (as applicable) are replicated when they release software under these licences.
 
 ### Review and Release Process
 
 ##### 35
 
-Government agencies should follow the NZGOAL-SE Review and Release Process before publicly releasing and licensing their software for re-use under an open source software licence. The Review and Release Process is set out below.
+Government agencies should follow the NZGOAL-SE Review and Release Process before publicly releasing and licensing their software for re-use under a FOSS licence. The Review and Release Process is set out below.

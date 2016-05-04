@@ -38,13 +38,13 @@ These Guidelines[^3] are relevant where an agency procures the development of so
 
 ##### 10
 
-This position could create an obstacle to an agency licensing developed software on open source terms because the agency can only do so if it has the requisite rights to do so. If it doesn’t own the copyright, it doesn’t have the requisite rights unless expressly authorised by the copyright owner.
+This position could create an obstacle to an agency licensing developed software on FOSS licence terms because the agency can only do so if it has the requisite rights to do so. If it doesn’t own the copyright, it doesn’t have the requisite rights unless expressly authorised by the copyright owner.
 
 ##### 11
 
-The Guidelines recognise, however, that there may be situations where an agency needs to own the IPR. One of those situations is where the agency "intends to allow free use of the IPR on open source terms". Agencies would, therefore, be acting consistently with these Guidelines if they were to require the development contract to confer ownership of copyright in the software on the agency, on the basis that they wish to license the software on open source terms.[^4]
+The Guidelines recognise, however, that there may be situations where an agency needs to own the IPR. One of those situations is where the agency "intends to allow free use of the IPR on open source terms". Agencies would, therefore, be acting consistently with these Guidelines if they were to require the development contract to confer ownership of copyright in the software on the agency, on the basis that they wish to license the software on FOSS terms.[^4]
 
-[^4]: Where the agency owns the copyright, it could still grant a non-exclusive custom licence to the service provider, before or at the same time as releasing the software on open source terms, that enables the service provider to use the software for other purposes. For example, the service provider may wish to be able to use the software it has developed for other projects before the agency releases it on open source terms.
+[^4]: Where the agency owns the copyright, it could still grant a non-exclusive custom licence to the service provider, before or at the same time as releasing the software on FOSS licence terms, that enables the service provider to use the software for other purposes. For example, the service provider may wish to be able to use the software it has developed for other projects before the agency releases it on FOSS licence terms.
 
 ### Government Rules of Sourcing
 
