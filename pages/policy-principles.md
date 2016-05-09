@@ -16,7 +16,7 @@ Government agencies are strongly encouraged to apply the following Policy Princi
 
 | **Policy Principle**                                                             | **Summary**                                                                                                                                                                                                                                                             |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Public release and open access of agency software using free and open source licences | Release source code in a publicly accessible location. Use wherever possible openly accessable tools for version control and existing repository platform. A decision tree will help guide the licence selection.                                                                                                                                                                       |
+| Open access and public release of agency software using free and open source licences | Release source code in a publicly accessible location. Use wherever possible openly accessable tools for version control and existing repository platform. A decision tree will help guide the licence selection.                                                                                                                                                                       |
 | Ensuring copyright ownership or right to sub-license                             | Make sure your agency has the required copyright-related rights to license the software.                                                                                                                                                                                |
 | Exceptions                                                                       | The default MIT licensing does not apply where an exception applies.                                                                                                                                                                                                    |
 | Adaptations                                                                      | Be careful when considering whether you’re adapting pre-existing software.                                                                                                                                                                                              |
@@ -34,7 +34,7 @@ Government agencies are strongly encouraged to apply the following Policy Princi
 Each Policy Principle is set out below.
 
 
-### Public release and open access of agency software using free and open source licences.
+### Open access and public release of agency software using free and open source licences.
 
 ##### 14
 
@@ -44,9 +44,11 @@ If government agencies have the required copyright-related rights to do so, they
 
 (b) to the greatest extent practicable, using existing version control systems and source code repository platforms to allow for discussion and improvement of released software [^6]; and
 
-(c) being accessible publicly online; and
+(c) publicly released and accessible online; and
 
-(d) using existing, freely available software to interact with the released source code.
+(d) using existing, freely available software to interact with the released software source code.
+
+(the **Open Access and Licensing Principle**).
 
 ##### 15
 
@@ -68,37 +70,29 @@ For the purposes of NZGOAL-SE, the recommended set of free and open source softw
 
 ##### 16
 
-Paragraph 14 makes it clear that, for the Permissive Licensing Principle to apply, an agency must have the required copyright-related rights to license the software.
+Paragraph 14 makes it clear that, for the Open Access and Licensing Principle to apply, an agency must have the required copyright-related rights to license the software.
 
 ##### 17
 
-Agencies should only license software for re-use by others (whether under the MIT licence or any other open source software licence) where:
+Agencies should only license software for re-use by others under any free and open source software licence where:
 
 (a) they own or can obtain an assignment of all copyright in the software and have not exclusively licensed it to a third party; or
 
 (b) to the extent they do not own the copyright, they have or can obtain permission from the copyright owner(s) to do so
 
-(the **Rights Clearance Principle**). It can be important, in this context, to check that developers have not copied tracts of code from elsewhere. 
+(the **Rights Clearance Principle**). It can be important, in this context, to check that if developers have reused tracts of code from elsewhere, that the licence of these are also considered in the evaluation of copyright-related rights. 
 
 ### Exceptions
 
 ##### 18
 
-The Permissive Licensing Principle does not apply where:
+The Open Access and Licensing Principle does not apply where:
 
 (a) **civil wrongs**: open source licensing of the software would constitute a breach of contract, breach of confidence, breach of privacy, disclosure of a trade secret or other actionable wrong; 
 
 (b) **commercial interests**: open source licensing of the software would be contrary to an agency’s own or the Government’s legitimate commercial interests (note, however, that most government agencies are not in the business of commercialising developed software); 
 
-(c) **security** **or privacy** **risk**: release of the software on open source terms would create an unacceptable security risk (whether to an agency, organisation or individuals) or an unacceptable privacy-related risk; or
-
-(d) **sharealike required**: the agency is either required or has compelling reason to license the software with a sharealike (copyleft) licence such as the GPL.[^10] For example:
-
->(i) the agency may be incorporating or adapting pre-existing code that is licensed under a sharealike open source software licence and therefore be required, by the licence’s reciprocity obligation, to licence the software under the same licence upon distribution; or
-
->(ii) the agency (either alone or with agencies and users) may have a genuine need for developments to the software to be shared with the developer community (when considering this situation, agencies should take into account the “Potential stifling effect of sharealike licensing" principle below).
-
-[^10]: This form of licence requires those who make adaptations or derivatives of the software to license those adaptations or derivatives under the same licence when they distribute or convey their adaptations or derivatives.
+(c) **security or privacy risk**: release of the software on open source terms would create an unacceptable security risk (whether to an agency, organisation or individuals) or an unacceptable privacy-related risk.
 
 ### Adaptations
 
@@ -110,7 +104,7 @@ Difficult legal questions can arise as to whether a given piece of developed sof
 
 (b) that other software is third party proprietary software or software owned by a third party that has been released under a sharealike open source software licence like the GPL,
 
-the agency should be cautious about concluding that its developed software is _not_ an adaptation or derivative of the other software. The need for caution arises because if the agency concludes mistakenly that the developed software is not an adaptation, release of the developed software under the MIT licence could result in the agency breaching third party rights and expose it to the risk of complaint or legal action. End users would also be at risk of breaching third party rights and be exposed to the risk of complaint or legal action. If an agency is in any doubt on this issue, it should seek specialist advice (which could be both technical and legal) before releasing the software for re-use.
+the agency should be cautious about concluding that it's developed software is _not_ an adaptation or derivative of the other software. The need for caution arises because if the agency concludes mistakenly that the developed software is not an adaptation, release of the developed software under an incorrect licence could result in the agency breaching third party rights and expose it to the risk of complaint or legal action. End users would also be at risk of breaching third party rights and be exposed to the risk of complaint or legal action. If an agency is in any doubt on this issue, it should seek specialist advice (which could be both technical and legal) before releasing the software for re-use.
 
 ### Alternative OSS licensing
 
@@ -127,6 +121,9 @@ Where the Permissive Licensing Principle does not apply because:
 Whilst versions 2 and 3 of the GPL differ in certain respects, in essence the GPL allows people to copy and distribute the software, to charge a fee for transferring it or providing warranty protection, and to modify the software and distribute resulting derivative works. But, if a person distributes his or her derivative work, that person needs to license it under the GPL, otherwise that person's licence to use the software will terminate. The full text of versions 2 and 3 of the GPL (both versions are in common use) can be found on the website of the [Free Software Foundation](http://www.gnu.org/licenses/gpl-3.0.en.html).[^11]
 
 [^11]: See [http://www.gnu.org/licenses/gpl-3.0.en.html](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
+
 
 ### Security code review
 
@@ -204,7 +201,7 @@ Such steps may include:
 
 (c) ensuring the agency owns the intellectual property rights in the developed software; or 
 
-(d) ensuring the agency obtains a broad licence from the service provider allowing the agency to sub-license the software under the MIT licence or, where applicable, the GPL (or, if required, some other open source software licence); or
+(d) ensuring the agency obtains a broad licence from the service provider allowing the agency to sub-license the software under the MIT licence or GPL (or, if required, some other free and open source software licence); or
 
 (e) insisting on contractual provisions that require the service provider to release the software under a specified open source software licence (and, where relevant, to a specified code respository).
 
@@ -246,10 +243,10 @@ In particular, it is generally considered unreasonable to expect a service provi
 
 ##### 34
 
-The MIT licence and the GPL both contain broad disclaimers of warranties and exclusions of liability that are widely known and acknowledged and ought to protect releasing agencies from liability in connection with the software they have released. In essence, people use open source software at their own risk. Agencies should ensure that all disclaimers and exclusions contained in the MIT licence or the GPL (as applicable) are replicated when they release software under these licences.
+The MIT licence and the GPL both contain broad disclaimers of warranties and exclusions of liability that are widely known and acknowledged and ought to protect releasing agencies from liability in connection with the software they have released. In essence, people use free and open source software at their own risk. Agencies should ensure that all disclaimers and exclusions contained in the MIT licence or the GPL (as applicable) are replicated when they release software under these licences.
 
 ### Review and Release Process
 
 ##### 35
 
-Government agencies should follow the NZGOAL-SE Review and Release Process before publicly releasing and licensing their software for re-use under an open source software licence. The Review and Release Process is set out below.
+Government agencies should follow the NZGOAL-SE Review and Release Process before publicly releasing and licensing their software for re-use under a free and open source software licence. The Review and Release Process is set out below.
