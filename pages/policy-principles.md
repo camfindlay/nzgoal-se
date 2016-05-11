@@ -54,9 +54,9 @@ If government agencies have the required copyright-related rights to do so, they
 
 For the purposes of NZGOAL-SE, the recommended set of free and open source software licences that selection guidance is provided for are:
 
-(a) the **MIT licence** [^7] that invokes an attribution or permissive style licence. The full text of the MIT licence can be found on the website of the [Open Source Initiative](https://opensource.org/licenses/MIT). [^8].
+(a) the **MIT licence** [^7] that invokes a permissive style licence. The full text of the MIT licence can be found on the website of the [Open Source Initiative](https://opensource.org/licenses/MIT). [^8].
 
-(b) the **GPL license** that invokes a sharealike or copyleft style licence. The full text of the GPL licence can be found on the website of the [Free Software Foundation](http://www.gnu.org/licenses/gpl-3.0.en.html). [^9].
+(b) the **GPL license** that invokes a sharealike/copyleft style licence. The full text of the GPL licence can be found on the website of the [Free Software Foundation](http://www.gnu.org/licenses/gpl-3.0.en.html). [^9].
 
 [^6]: Both the United Kingdom Government Digital Services [(https://www.gov.uk/service-manual/making-software/choosing-technology.html#sharing-software)](https://www.gov.uk/service-manual/making-software/choosing-technology.html#sharing-software) and the United Stated Federal Government [(https://sourcecode.cio.gov/Implementation/)](https://sourcecode.cio.gov/Implementation/) express the value of modern software development practices such as version control and code repository platforms for sharing and the improvement of publicly released government source code.
 
