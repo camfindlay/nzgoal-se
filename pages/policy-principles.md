@@ -8,7 +8,7 @@ description: "NZGOAL-SE Policy principles"
 
 ## NZGOAL-SE Policy Principles
 
-### Introduction 
+#### Introduction 
 
 ##### 13
 
